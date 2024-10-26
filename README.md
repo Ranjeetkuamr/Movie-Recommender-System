@@ -16,7 +16,8 @@ This is a streamlit web application that can recommend various kinds of similar 
 # Dataset has been used
    . https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
 # How to run?
-   STEPS 
+   STEPS:
+   
   Clone the repository
     https://github.com/Ranjeetkuamr/Movie-Recommender-System.git
   
