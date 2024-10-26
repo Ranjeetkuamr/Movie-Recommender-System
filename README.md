@@ -18,6 +18,22 @@ This is a streamlit web application that can recommend various kinds of similar 
 # How to run?
 
 #### STEPS:
+Clone the repository
 ```
   https://github.com/Ranjeetkuamr/Movie-Recommender-System.git
+```
+#### STEP 01- Create a conda environment after opening the repository
+```
+  conda create -n movie python=3.8 -y
+```
+```
+ conda activate movie
+```
+#### STEP 02- install the requirements
+```
+ pip install -r requirements.txt
+```
+Now run
+```
+streamlit run app.py
 ```
