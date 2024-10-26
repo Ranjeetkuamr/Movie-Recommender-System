@@ -18,6 +18,6 @@ This is a streamlit web application that can recommend various kinds of similar 
 # How to run?
 
 #### STEPS:
-```http
+```
   https://github.com/Ranjeetkuamr/Movie-Recommender-System.git
 ```
