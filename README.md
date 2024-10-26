@@ -14,4 +14,4 @@ This is a streamlit web application that can recommend various kinds of similar 
 ![Screenshot 2024-10-26 143029](https://github.com/user-attachments/assets/e7576f07-f685-4210-8531-aab072cd29a7)
 
 # Dataset has been used
-   . https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+   . Dataset link   
